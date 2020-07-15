@@ -1,0 +1,12 @@
+header {
+    border-bottom: solid 1px rgba(0, 0, 0, 0.075);
+}
+
+.s-title {
+    padding: 0 0 0.5em 0;
+    border-bottom: solid 1px rgba(0, 0, 0, 0.075);
+}
+
+.icon-logo {
+    font-size: 2em;
+}
